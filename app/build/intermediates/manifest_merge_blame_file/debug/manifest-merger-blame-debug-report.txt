@@ -6,37 +6,37 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml
+8-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml
+9-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:5:5-18:19
+11-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:5:5-18:19
 12        android:allowBackup="true"
-12-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:6:9-35
+12-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.1.0] /home/alles49klar/.gradle/caches/transforms-2/files-2.1/88996ebe63854748bff2bf61768c6105/core-1.1.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.1.0] /home/jagenau49/.gradle/caches/transforms-2/files-2.1/88996ebe63854748bff2bf61768c6105/core-1.1.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:7:9-43
+15-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:8:9-41
+16-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:8:9-41
 17        android:supportsRtl="true"
-17-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:9:9-35
+17-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:9:9-35
 18        android:theme="@style/AppTheme" >
-18-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:10:9-40
+18-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:10:9-40
 19        <activity android:name="mooc.vandy.java4android.birthday.ui.MainActivity" >
-19-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:11:9-17:20
-19-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:11:19-82
+19-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:11:9-17:20
+19-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:11:19-82
 20            <intent-filter>
-20-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:12:13-16:29
+20-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:12:13-16:29
 21                <action android:name="android.intent.action.MAIN" />
-21-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:13:17-69
-21-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:13:25-66
+21-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:13:17-69
+21-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:13:25-66
 22
 23                <category android:name="android.intent.category.LAUNCHER" />
-23-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:15:17-77
-23-->/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/AndroidManifest.xml:15:27-74
+23-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:15:17-77
+23-->/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/AndroidManifest.xml:15:27-74
 24            </intent-filter>
 25        </activity>
 26    </application>

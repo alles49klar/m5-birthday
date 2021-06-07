@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/home/jagenau49/AndroidStudioProjects/m5-birthday/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/alles49klar/Schreibtisch/yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment/m5-birthday/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/home/jagenau49/AndroidStudioProjects/m5-birthday/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

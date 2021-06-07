@@ -98,7 +98,7 @@ public class Logic
 
         for (int i = 0; i < kisiSayisi; i++) {
 
-            int yeniTarih = random.nextInt(364);
+            int yeniTarih = random.nextInt(364);//Todo: Please check your boundary
             if (i == 0) {
                 dogum_gunleri.add(yeniTarih);
                 // System.out.println("ilk tarih eklendi: "+ yeniTarih);
